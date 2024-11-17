@@ -1,8 +1,6 @@
 # DC-DC Converters & DC-AC Inverters
 ![1710358359344](https://github.com/user-attachments/assets/8a1b2af2-4604-4947-be05-9fcdd8f45a24)
 
-![1710358359344](https://github.com/user-attachments/assets/f9214a19-be97-414e-ace0-cb742f98a4c8)
-
 ![1710358359351](https://github.com/user-attachments/assets/5633abed-bfe5-4c00-a91e-a4012e7ded64)
 
 ![1710358359330](https://github.com/user-attachments/assets/0fe3d750-acd9-47d6-8578-8afa017cf555)
